@@ -1,3 +1,3 @@
 # animate-particles-js
 
-![](preview.png)
+![](video.gif)
